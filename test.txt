@@ -1,0 +1,8 @@
+Git przy kazdym zatwierdzeniu (ang. commit) tworzy nowy obraz  ÿ
+projektu, w którym zapisuje róznice pomi  ?edzy plikami, w których  ÿ
+
+zasz³y zmiany oraz linkuje pliki, które nie zosta³y zmienione. Wi  ?ek-
+szo ´s ´c operacji jakie b  ?edziemy wykonywa ´c s  ?a operacjami lokalnymi,
+
+pozwala to na prac  ?e bez dost  ?epu do Internetu. Dodatkow  ?a zalet  ?a
+(lokalnego dzia³ania) jest szybko ´s ´c.
